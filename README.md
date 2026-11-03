@@ -20,6 +20,7 @@ reports lap times, speed statistics, and lap-to-lap comparisons.
     12.0,1,112.5
 
 ## Example output
+```
 Samples read: 16
 
 --- Times per lap ---
@@ -44,6 +45,7 @@ Max speed delta: +3.4 km/h
 Min speed delta: +2.4 km/h
 
 Results saved to results.csv
+```
 
 ## Project structure
 - `Types.h`: data structures
